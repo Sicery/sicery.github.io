@@ -22,10 +22,10 @@ repository               : "Sicery/sicery.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sicery_duck.jpg"
+  avatar           : "me.jpg"
   name             : "Yige Jin"
   pronouns         : "She/Her" 
-  bio              : "MCS Student @ University of Sydney"
+  bio              : "MCS @ USyd"
   location         : "Sydney"
   employer         : "Looking for ML/SE Roles"
   email            : "hygitysm@163.com"
